@@ -177,11 +177,3 @@ Feedback is always welcome.
 Licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
-
-### Why This README Wins
-
-- **Concise Yet Impactful**: It delivers key info without overwhelming the reader.
-- **Creative Flair**: Emojis and badges add personality while keeping it professional.
-- **Technical Depth**: Highlights architecture, tech choices, and best practices—catnip for interviewers.
-- **Future-Ready**: Shows foresight with scalability and enhancement ideas.
-- **Easy to Skim**: Markdown formatting and clear sections make it interviewer-friendly.
