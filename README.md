@@ -1,10 +1,12 @@
----
-
 # Health Information System 🏥
 
 A sleek, modern web application empowering healthcare providers to manage clients and health programs with ease. Built with cutting-edge technologies, this system prioritizes clean code, type safety, and scalability.
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
+
+## 🌐 Live Demo
+
+Check out the live application: [https://afya-health-connect.lovable.app/](https://afya-health-connect.lovable.app/)
 
 ---
 
