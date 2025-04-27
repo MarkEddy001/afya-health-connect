@@ -13,7 +13,7 @@ Check out the live application: [https://afya-health-connect.lovable.app/](https
 
 ## 🌐 Powerpoint Presentation
 
-View the PowerPoint Presentation:(https://docs.google.com/presentation/d/1hGNdHiflqHMFSaCehNP5ghKXZjbZM8zJ8P_dnpXNxEk/edit?usp=sharing)
+View the PowerPoint Presentation: https://docs.google.com/presentation/d/1hGNdHiflqHMFSaCehNP5ghKXZjbZM8zJ8P_dnpXNxEk/edit?usp=sharing
 
 ---
 
