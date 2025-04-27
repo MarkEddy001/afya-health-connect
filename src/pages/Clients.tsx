@@ -99,7 +99,7 @@ const Clients = () => {
                       id="name"
                       value={name}
                       onChange={(e) => setName(e.target.value)}
-                      placeholder="John Doe"
+                      placeholder="John Kiriamiti"
                       className="mt-1"
                       required
                     />
@@ -115,7 +115,7 @@ const Clients = () => {
                       id="age"
                       value={age}
                       onChange={(e) => setAge(e.target.value)}
-                      placeholder="30"
+                      placeholder="35"
                       className="mt-1"
                     />
                   </div>
@@ -135,6 +135,7 @@ const Clients = () => {
                       <option value="Male">Male</option>
                       <option value="Female">Female</option>
                       <option value="Other">Other</option>
+                      <option value="Prefer not to say">Prefer not to say</option>
                     </select>
                   </div>
 
@@ -148,7 +149,7 @@ const Clients = () => {
                       id="contactNumber"
                       value={contactNumber}
                       onChange={(e) => setContactNumber(e.target.value)}
-                      placeholder="555-123-4567"
+                      placeholder="254-123-4567"
                       className="mt-1"
                     />
                   </div>
@@ -163,7 +164,7 @@ const Clients = () => {
                       id="address"
                       value={address}
                       onChange={(e) => setAddress(e.target.value)}
-                      placeholder="123 Main St, City"
+                      placeholder="123 Main St, Nairobi"
                       className="mt-1"
                     />
                   </div>
