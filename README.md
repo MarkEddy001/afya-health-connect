@@ -1,6 +1,6 @@
 # Health Information System 🏥
 
-A sleek, modern web application empowering healthcare providers to manage clients and health programs with ease. Built with cutting-edge technologies, this system prioritizes clean code, type safety, and scalability.
+This project is a simple health information system for doctors to manage patient data and health programs. It allows doctors to create health programs (e.g. TB, Malaria, HIV), register new clients, and track which programs each client is enrolled in. Doctors can search for a client and view their profile, which shows personal details and the programs they are enrolled in. The system also exposes client profiles via a simple API so that other systems can retrieve this information. The code is clean, well-documented, and easy to follow, with beginners in mind.
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
