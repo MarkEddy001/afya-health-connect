@@ -11,6 +11,12 @@ Check out the live application: [https://afya-health-connect.lovable.app/](https
 
 ---
 
+## 🌐 Powerpoint Presentation
+
+Check out the live ppt application: [[https://afya-health-connect.lovable.app](https://docs.google.com/presentation/d/1hGNdHiflqHMFSaCehNP5ghKXZjbZM8zJ8P_dnpXNxEk/edit?usp=sharing)
+---
+
+
 ## 🚀 Features
 
 - **Client Management**: Register and track client profiles with detailed records.
