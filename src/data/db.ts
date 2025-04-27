@@ -1,4 +1,3 @@
-
 import { Program, Client, Enrollment } from './models';
 
 // Mock database storage
@@ -21,26 +20,52 @@ let programs: Program[] = [
     description: 'Comprehensive HIV support and management program',
     createdAt: new Date().toISOString(),
   },
+  {
+    id: 4,
+    name: 'Occupation Therapy',
+    description: 'Comprehensive O.T support and management program',
+    createdAt: new Date().toISOString(),
+  },
 ];
 
 let clients: Client[] = [
   {
     id: 1,
-    name: 'John Doe',
+    name: 'John Kiriamiti',
     age: 35,
     gender: 'Male',
-    contactNumber: '555-123-4567',
-    address: '123 Main St, Anytown',
+    contactNumber: '254-123-4567',
+    address: '123 Main St, Nairobi',
     enrolledPrograms: [],
     createdAt: new Date().toISOString(),
   },
   {
     id: 2,
-    name: 'Jane Smith',
+    name: 'Jane Wangari',
     age: 42,
     gender: 'Female',
-    contactNumber: '555-987-6543',
-    address: '456 Oak Ave, Somewhere',
+    contactNumber: '254-987-6543',
+    address: '456 Kijabe str, Mombasa',
+    enrolledPrograms: [],
+    createdAt: new Date().toISOString(),
+  },
+  {
+    id: 3,
+    name: 'Melody Adhiambo',
+    age: 25,
+    gender: 'Female',
+    contactNumber: '254-258-9687',
+    address: '777 Maryland str, Kitengela',
+    enrolledPrograms: [],
+    createdAt: new Date().toISOString(),
+  },
+  {
+    id: 4,
+    name: 'Reloy Maina',
+    age: 29,
+    gender: 'Male',
+    contactNumber: '254-995-9037',
+    address: '114 Uzima Court, Westlands',
     enrolledPrograms: [],
     createdAt: new Date().toISOString(),
   },
@@ -55,6 +80,11 @@ let enrollments: Enrollment[] = [
   {
     clientId: 1,
     programId: 3,
+    enrollmentDate: new Date().toISOString(),
+  },
+  {
+    clientId: 4,
+    programId: 2, // Reloy Maina enrolled in Malaria Prevention
     enrollmentDate: new Date().toISOString(),
   },
 ];
