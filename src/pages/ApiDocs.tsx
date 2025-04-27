@@ -60,7 +60,7 @@ const ApiDocs = () => {
                     <pre className="mt-2 bg-gray-100 p-3 rounded overflow-x-auto">
                       {`{
   "id": 1,
-  "name": "John Doe",
+  "name": "John Kiriamiti",
   "programs": ["TB Program", "HIV Support"]
 }`}
                     </pre>
