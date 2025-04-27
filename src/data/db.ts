@@ -1,6 +1,6 @@
 import { Program, Client, Enrollment } from './models';
 
-// Mock database storage
+// Mock DB storage
 let programs: Program[] = [
   {
     id: 1,
